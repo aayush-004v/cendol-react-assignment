@@ -100,10 +100,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 ## Contact
-<p>
-  <h4>Email</h4> - aayush2293@gmail.com
-  </p>
-  <p>https://www.linkedin.com/in/aayush-verma-b62a0b20a/</p>
+
+  <h4>Email</h4> aayush2293@gmail.com
+  <h4> LinkedIn Profile </h4> https://www.linkedin.com/in/aayush-verma-b62a0b20a/
   
 ## Learn More
 
