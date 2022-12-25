@@ -24,11 +24,12 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
+      <a href="#available-scripts">Getting Started</a>
       <ul>
-        <li><a href="#build">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -40,10 +41,7 @@ This is a sample vendor builduing materials quotation app. This helps the vendor
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
-
 
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
@@ -52,9 +50,7 @@ This is a sample vendor builduing materials quotation app. This helps the vendor
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
-# Getting Started with Create React App
+## Getting Started with create-react-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -95,6 +91,20 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Contributing
+
+<h4>Aayush Verma - aayush2293@gmail.com</h4>
+
+Project Link: [https://github.com/aayush-004v/cendrol-react-assignment](https://github.com/aayush-004v/cendrol-react-assignment)
+Hosted Link : [https://cendrol-react-assignment-avi.vercel.app/](https://cendrol-react-assignment-avi.vercel.app/)
+
+
+## Contact
+<p>
+  Email - aayush2293@gmail.com
+  [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/aayush-verma-b62a0b20a/]
+  </p>
+  
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -105,3 +115,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/aayush-verma-b62a0b20a/
