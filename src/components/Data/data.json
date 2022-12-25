@@ -1,0 +1,46 @@
+{
+    "vendor": [
+        {
+            "sno": 1,
+            "name":"Cement",
+            "uom": "Bags",
+            "qty": 2,
+            "price":20
+        },
+        {
+            "sno": 2,
+            "name": "Steel",
+            "uom": "Kgs",
+            "qty": 2,
+            "price":20
+        },
+        {
+            "sno": 3,
+            "name": "Glass",
+            "uom": "Nos",
+            "qty": 2,
+            "price":20
+        },
+        {
+            "sno": 4,
+            "name": "Pipe",
+            "uom": "Mtrs",
+            "qty": 2,
+            "price":20
+        },
+        {
+            "sno": 5,
+            "name": "Wooden door",
+            "uom": "Nos",
+            "qty": 2,
+            "price":20
+        },
+        {
+            "sno": 6,
+            "name": "Wooden door",
+            "uom": "Nos",
+            "qty": 5,
+            "price":200
+        }
+    ]
+}
