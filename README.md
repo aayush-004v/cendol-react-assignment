@@ -101,9 +101,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Contact
 <p>
-  Email - aayush2293@gmail.com
+  ** Email - aayush2293@gmail.com
   </p>
-  <p>[![LinkedIn][linkedin-shield]][linkedin-url]</p>
+  <p> ** https://www.linkedin.com/in/aayush-verma-b62a0b20a/</p>
   
 ## Learn More
 
@@ -115,5 +115,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/aayush-verma-b62a0b20a/
