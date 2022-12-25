@@ -93,7 +93,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Contributing
 
-<h4>Aayush Verma - aayush2293@gmail.com</h4>
+<h4>Aayush Verma</h4>
 
 <p> Project Link: [https://github.com/aayush-004v/cendrol-react-assignment](https://github.com/aayush-004v/cendrol-react-assignment) </p>
 <p> Hosted Link : [https://cendrol-react-assignment-avi.vercel.app/](https://cendrol-react-assignment-avi.vercel.app/) </p>
@@ -101,9 +101,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Contact
 <p>
-  ** Email - aayush2293@gmail.com
+  <h4>Email</h4> - aayush2293@gmail.com
   </p>
-  <p> ** https://www.linkedin.com/in/aayush-verma-b62a0b20a/</p>
+  <p>https://www.linkedin.com/in/aayush-verma-b62a0b20a/</p>
   
 ## Learn More
 
