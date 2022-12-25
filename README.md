@@ -8,7 +8,7 @@
   <p>
     This project is a react based assignment for vendor builduing materials quotation. It helps the vendor to calculate the total amount or cost of materials needed for the builduing construction. It includes the name of materials, quantity, price and grand total. Through this app vendor can make their budget accordingly for the builduing materials.
   </p>
-  <p>click Here For -></p>
+  <p align="center">Click below for project demo</p>
   <h3 align="center"><a href="https://cendol-react-assignment-avi.vercel.app/">Project Demo</a>
 </h3>
 </div>
