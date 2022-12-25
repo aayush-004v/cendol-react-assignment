@@ -95,15 +95,15 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 <h4>Aayush Verma - aayush2293@gmail.com</h4>
 
-Project Link: [https://github.com/aayush-004v/cendrol-react-assignment](https://github.com/aayush-004v/cendrol-react-assignment)
-Hosted Link : [https://cendrol-react-assignment-avi.vercel.app/](https://cendrol-react-assignment-avi.vercel.app/)
+<p> Project Link: [https://github.com/aayush-004v/cendrol-react-assignment](https://github.com/aayush-004v/cendrol-react-assignment) </p>
+<p> Hosted Link : [https://cendrol-react-assignment-avi.vercel.app/](https://cendrol-react-assignment-avi.vercel.app/) </p>
 
 
 ## Contact
 <p>
   Email - aayush2293@gmail.com
-  [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/aayush-verma-b62a0b20a/]
   </p>
+  <p>[![LinkedIn][linkedin-shield]][linkedin-url]</p>
   
 ## Learn More
 
