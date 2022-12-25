@@ -98,8 +98,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 <h4>Aayush Verma</h4>
 
-<p> Project Link: [https://github.com/aayush-004v/cendrol-react-assignment](https://github.com/aayush-004v/cendrol-react-assignment) </p>
-<p> Hosted Link : [https://cendrol-react-assignment-avi.vercel.app/](https://cendrol-react-assignment-avi.vercel.app/) </p>
+<p> Project Link: https://github.com/aayush-004v/cendrol-react-assignment</p>
+<p> Hosted Link : https://cendrol-react-assignment-avi.vercel.app/</p>
 
 
 ## Contact
