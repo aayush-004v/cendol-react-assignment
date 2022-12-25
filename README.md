@@ -43,9 +43,12 @@ This is a sample vendor builduing materials quotation app. This helps the vendor
 
 ### Built With
 
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
+* HTML 
+* CSS
+* React
+* Bootstrap
+* Material UI
+* MDBootstrap
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,8 +112,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
