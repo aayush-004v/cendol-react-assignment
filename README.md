@@ -9,7 +9,7 @@
     This is a sample vendor builduing materials quotation app. This helps the vendor in calculation of a particular builduing materials for their eastimation and also construction. It includes name of materials, price, quantity.
   </p>
   <p align="center">Click below for project demo</p>
-  <h4 align="center"><a href="https://cendol-react-assignment-avi.vercel.app/">Project Demo</a>
+  <h4 align="center"><a href="https://cendrol-react-assignment-avi.vercel.app/" tagret="_blank">Project Demo</a>
 </h4>
 </div>
 
@@ -99,7 +99,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 <h4>Aayush Verma</h4>
 
 <p> Project Link: https://github.com/aayush-004v/cendrol-react-assignment</p>
-<p> Hosted Link : https://cendrol-react-assignment-avi.vercel.app/</p>
+<p> Hosted Link : <a href="https://cendrol-react-assignment-avi.vercel.app/" target="_blank"></a></p>
 
 
 ## Contact
